@@ -93,7 +93,7 @@ SUPABASE_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZ
 ### 5. Run the Application
 
 ## Streamlit Frontend
-streamlit run FrontEnd/app.py
+streamlit run frontend/app.py
 
 The app will open in your browser at `http://localhost:8080`
 
