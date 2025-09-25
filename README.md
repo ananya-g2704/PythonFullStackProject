@@ -138,7 +138,7 @@ Ideas for extending this project:
 - **Collaboration**:Share tasks with classmates
 - **Mobile App**:React Native or Flutter mobile version
 - **Data Export**:Export tasks to CSV or PDF
--  **TAsk Templates**:Create reusable task templates
+-  **Task Templates**:Create reusable task templates
 
 ## Support
 
